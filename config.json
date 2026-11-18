@@ -1,0 +1,16 @@
+{
+  "timezone": "Asia/Shanghai",
+  "max_daily_items": 12,
+  "paper_lookback_days": 14,
+  "model": "gpt-5.4-mini",
+  "sources": [
+    {"name": "Generalist AI", "kind": "html", "url": "https://generalistai.com/blog", "path_pattern": "^/blog/[^/]+$", "exclude_paths": ["/blog/company", "/blog/research", "/blog/ideas"], "keywords": []},
+    {"name": "Sunday Robotics", "kind": "html", "url": "https://www.sunday.ai/blog", "path_pattern": "^/(journal|blog)/[^/]+$", "keywords": []},
+    {"name": "Physical Intelligence", "kind": "html", "url": "https://www.pi.website/blog", "path_pattern": "^/(blog|research)/[^/]+$", "keywords": []},
+    {"name": "Dyna Robotics", "kind": "html", "url": "https://www.dyna.co/research", "path_pattern": "^/(research/[^/]+|dyna-[^/]+)$", "keywords": []},
+    {"name": "Anthropic Research", "kind": "html", "url": "https://www.anthropic.com/research", "path_pattern": "^/research/[^/]+$", "keywords": ["robot", "embodied", "physical", "spatial", "agent", "planning", "tool use", "multimodal"]},
+    {"name": "Anthropic Engineering", "kind": "html", "url": "https://www.anthropic.com/engineering", "path_pattern": "^/(engineering|research)/[^/]+$", "keywords": ["agent", "tool", "context", "planning", "robot", "multimodal"]},
+    {"name": "OpenAI", "kind": "xml", "url": "https://openai.com/news/rss.xml", "keywords": ["robot", "embodied", "physical", "spatial", "agent", "planning", "tool use", "multimodal"]},
+    {"name": "arXiv Robotics Agents", "kind": "atom", "url": "https://export.arxiv.org/api/query?search_query=cat:cs.RO+AND+(all:agent+OR+all:vision-language-action+OR+all:foundation)&sortBy=submittedDate&sortOrder=descending&max_results=30", "keywords": []}
+  ]
+}

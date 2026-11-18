@@ -1,0 +1,39 @@
+name: Daily embodied radar
+on:
+  schedule:
+    # 21:17 Asia/Shanghai; schedules can be delayed.
+    - cron: '17 13 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['hive.py', 'config.json', 'tests/**', '.github/workflows/daily-radar.yml']
+permissions:
+  contents: write
+concurrency:
+  group: public-radar
+  cancel-in-progress: false
+jobs:
+  radar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Verify collectors and source grounding
+        run: python -m unittest discover -s tests -v
+      - name: Collect public sources and draft report
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          HIVE_MODEL: ${{ vars.HIVE_MODEL }}
+        run: python hive.py
+      - name: Save public report and deduplication state
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add reports state
+          if ! git diff --cached --quiet; then
+            git commit -m 'docs: update public embodied intelligence radar'
+            git push
+          fi
