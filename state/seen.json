@@ -535,9 +535,57 @@
       "evidence": "paper_metadata",
       "source": "arXiv Robotics Agents",
       "first_seen": "2026-11-18"
+    },
+    "http://arxiv.org/abs/2611.23198v1": {
+      "url": "http://arxiv.org/abs/2611.23198v1",
+      "title": "Learned versus Kinematic Trajectory Prediction under Reduced Observation Frequency",
+      "published": "2026-11-17T18:38:28+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-19"
+    },
+    "http://arxiv.org/abs/2611.23192v1": {
+      "url": "http://arxiv.org/abs/2611.23192v1",
+      "title": "WoRD: Diffusion-Based Posterior Inference for Online Goal Recognition",
+      "published": "2026-11-17T18:35:53+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-19"
+    },
+    "http://arxiv.org/abs/2611.23149v1": {
+      "url": "http://arxiv.org/abs/2611.23149v1",
+      "title": "Capability Composition in Heterogeneous Teams via Barrier-Guided Diffusion Sampling",
+      "published": "2026-11-17T18:03:24+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-19"
+    },
+    "http://arxiv.org/abs/2611.23056v1": {
+      "url": "http://arxiv.org/abs/2611.23056v1",
+      "title": "RFW-S: Everyday Deformable Objects with Independent Simulation Verification",
+      "published": "2026-11-17T16:49:52+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-19"
+    },
+    "http://arxiv.org/abs/2611.22883v1": {
+      "url": "http://arxiv.org/abs/2611.22883v1",
+      "title": "Fly as Instructed: Refining World-Action Policies for UAV Vision-Language Navigation",
+      "published": "2026-11-17T14:54:49+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-19"
+    },
+    "http://arxiv.org/abs/2611.22855v1": {
+      "url": "http://arxiv.org/abs/2611.22855v1",
+      "title": "CaFe: Causally Faithful Conditional Traffic Scenario Generation",
+      "published": "2026-11-17T14:35:52+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-19"
     }
   },
   "initialized": true,
   "baseline_day": "2026-11-18",
-  "last_run": "2026-11-18T11:32:26.709575+08:00"
+  "last_run": "2026-11-19T05:24:21.191423+08:00"
 }
