@@ -583,9 +583,249 @@
       "evidence": "paper_metadata",
       "source": "arXiv Robotics Agents",
       "first_seen": "2026-11-19"
+    },
+    "http://arxiv.org/abs/2611.24940v1": {
+      "url": "http://arxiv.org/abs/2611.24940v1",
+      "title": "$Z$-sight: Unifying Vision-Language-Action and Latent World Modeling",
+      "published": "2026-11-18T18:59:38+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-20"
+    },
+    "http://arxiv.org/abs/2611.24926v1": {
+      "url": "http://arxiv.org/abs/2611.24926v1",
+      "title": "Grana: Compositional Reward Modeling for Long-Horizon Robot Manipulation",
+      "published": "2026-11-18T18:53:53+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-20"
+    },
+    "http://arxiv.org/abs/2611.24925v1": {
+      "url": "http://arxiv.org/abs/2611.24925v1",
+      "title": "Render the Robot, Generate the World: One Video World Model Across Embodiments",
+      "published": "2026-11-18T18:52:28+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-20"
+    },
+    "http://arxiv.org/abs/2611.24876v1": {
+      "url": "http://arxiv.org/abs/2611.24876v1",
+      "title": "Learning to Interact in Multi-Agent Self-Play for Controllable Autonomous Driving Scenario Generation",
+      "published": "2026-11-18T18:23:29+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-20"
+    },
+    "http://arxiv.org/abs/2611.24864v1": {
+      "url": "http://arxiv.org/abs/2611.24864v1",
+      "title": "NereidVLA: Learning to Understand and Navigate the Underwater World",
+      "published": "2026-11-18T18:19:00+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-20"
+    },
+    "http://arxiv.org/abs/2611.24858v1": {
+      "url": "http://arxiv.org/abs/2611.24858v1",
+      "title": "Communications-free Collective Intelligence Via Allocentric Belief",
+      "published": "2026-11-18T18:17:30+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-20"
+    },
+    "http://arxiv.org/abs/2611.24816v1": {
+      "url": "http://arxiv.org/abs/2611.24816v1",
+      "title": "RoboMorpher: Scaling Robot Morphology Representations for Cross-Embodiment Action Prediction",
+      "published": "2026-11-18T17:47:57+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-20"
+    },
+    "http://arxiv.org/abs/2611.24719v1": {
+      "url": "http://arxiv.org/abs/2611.24719v1",
+      "title": "DRIFT: Detachable Reasoning for Runtime-Flexible and Efficient End-to-End Driving",
+      "published": "2026-11-18T16:40:13+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-20"
+    },
+    "http://arxiv.org/abs/2611.24646v1": {
+      "url": "http://arxiv.org/abs/2611.24646v1",
+      "title": "Conceptual full-vehicle modeling of a modular all-wheel-drive robotic ADS test platform as a foundation for a digital twin architecture",
+      "published": "2026-11-18T15:51:19+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-20"
+    },
+    "http://arxiv.org/abs/2611.24585v1": {
+      "url": "http://arxiv.org/abs/2611.24585v1",
+      "title": "SHAPE: Discrete Supervision and Parallel Continuous Streams for Learning Dexterous Manipulation from Egocentric Human Data",
+      "published": "2026-11-18T15:14:26+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-20"
+    },
+    "http://arxiv.org/abs/2611.24579v1": {
+      "url": "http://arxiv.org/abs/2611.24579v1",
+      "title": "ALIVE: Bring Foundation Features to Life with Events",
+      "published": "2026-11-18T15:10:48+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-20"
+    },
+    "http://arxiv.org/abs/2611.24494v1": {
+      "url": "http://arxiv.org/abs/2611.24494v1",
+      "title": "RECLAIM: Robot-Vision-Informed Adversarial Patch Defense via Embodied Attention Feedback",
+      "published": "2026-11-18T14:24:10+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-20"
+    },
+    "http://arxiv.org/abs/2611.24455v1": {
+      "url": "http://arxiv.org/abs/2611.24455v1",
+      "title": "Homeward: No Place Like the Training View",
+      "published": "2026-11-18T14:01:38+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-20"
+    },
+    "http://arxiv.org/abs/2611.24376v1": {
+      "url": "http://arxiv.org/abs/2611.24376v1",
+      "title": "Teaching VLMs What to Say, Not How to Reason: Rethinking Counterfactual Reasoning in Autonomous Driving",
+      "published": "2026-11-18T13:06:24+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-20"
+    },
+    "http://arxiv.org/abs/2611.24360v1": {
+      "url": "http://arxiv.org/abs/2611.24360v1",
+      "title": "Towards Pose-Robust Few-Shot Vision-Language-Action Models",
+      "published": "2026-11-18T12:54:16+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-20"
+    },
+    "http://arxiv.org/abs/2611.24247v1": {
+      "url": "http://arxiv.org/abs/2611.24247v1",
+      "title": "Allocentric Memory, Egocentric Acting: A Dual-Frame VLA for Urban Aerial Navigation",
+      "published": "2026-11-18T11:24:13+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-20"
+    },
+    "http://arxiv.org/abs/2611.24192v1": {
+      "url": "http://arxiv.org/abs/2611.24192v1",
+      "title": "TrajWAM: Trajectory-Conditioned Future Learning for Vision-Language Driving",
+      "published": "2026-11-18T10:28:56+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-20"
+    },
+    "http://arxiv.org/abs/2611.24187v1": {
+      "url": "http://arxiv.org/abs/2611.24187v1",
+      "title": "Worth Another Look:Constrained World-Model Planning for Visual Inspection",
+      "published": "2026-11-18T10:26:26+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-20"
+    },
+    "http://arxiv.org/abs/2611.24178v1": {
+      "url": "http://arxiv.org/abs/2611.24178v1",
+      "title": "Adaptive Action Horizon Selection via Flow-Field Uncertainty",
+      "published": "2026-11-18T10:21:26+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-20"
+    },
+    "http://arxiv.org/abs/2611.24108v1": {
+      "url": "http://arxiv.org/abs/2611.24108v1",
+      "title": "Asymmetric Decomposition for Multi-Agent Path Finding with Unassigned Agents",
+      "published": "2026-11-18T09:26:08+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-20"
+    },
+    "http://arxiv.org/abs/2611.24077v1": {
+      "url": "http://arxiv.org/abs/2611.24077v1",
+      "title": "AeroRSI: Recursive Self-Improvement for Aerial Vision-Language Navigation",
+      "published": "2026-11-18T09:07:04+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-20"
+    },
+    "http://arxiv.org/abs/2611.24076v1": {
+      "url": "http://arxiv.org/abs/2611.24076v1",
+      "title": "Meaning Reaches Object Choice but Not Completion: Where Is a VLA Vulnerable to Landmark Synonyms?",
+      "published": "2026-11-18T09:05:36+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-20"
+    },
+    "http://arxiv.org/abs/2611.23963v1": {
+      "url": "http://arxiv.org/abs/2611.23963v1",
+      "title": "CoRA-VTLA: Contact-Guided Attention and Queryable Response Memory for Tactile Post-Training",
+      "published": "2026-11-18T06:57:52+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-20"
+    },
+    "http://arxiv.org/abs/2611.23961v1": {
+      "url": "http://arxiv.org/abs/2611.23961v1",
+      "title": "3DTouch: A Tactile-aware VLA Model with 3D Geometric Relations for Dexterous Manipulation",
+      "published": "2026-11-18T06:51:53+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-20"
+    },
+    "http://arxiv.org/abs/2611.23930v1": {
+      "url": "http://arxiv.org/abs/2611.23930v1",
+      "title": "A Hierarchical Onboard Vision-Language-Navigation Framework for Aerial Robots in Complex Environments",
+      "published": "2026-11-18T06:21:08+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-20"
+    },
+    "http://arxiv.org/abs/2611.23926v1": {
+      "url": "http://arxiv.org/abs/2611.23926v1",
+      "title": "GTI: Grounding Task Intent Throughout Long-Horizon VLA Manipulation",
+      "published": "2026-11-18T06:17:14+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-20"
+    },
+    "http://arxiv.org/abs/2611.23911v1": {
+      "url": "http://arxiv.org/abs/2611.23911v1",
+      "title": "Scalable Iterative Multi-Agent Path Finding under Turn Constraints",
+      "published": "2026-11-18T06:01:35+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-20"
+    },
+    "http://arxiv.org/abs/2611.23894v1": {
+      "url": "http://arxiv.org/abs/2611.23894v1",
+      "title": "Navigating Robots from Unknown and Uncalibrated Exocentric Cameras via Map Estimation",
+      "published": "2026-11-18T05:45:24+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-20"
+    },
+    "http://arxiv.org/abs/2611.23855v1": {
+      "url": "http://arxiv.org/abs/2611.23855v1",
+      "title": "RoboBuilder: Agentic Robot Co-Design with Real-world Video Feedback in the Loop",
+      "published": "2026-11-18T05:02:07+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-20"
+    },
+    "http://arxiv.org/abs/2611.23843v1": {
+      "url": "http://arxiv.org/abs/2611.23843v1",
+      "title": "RePlan-VLA: Progress-Aware Replanning for Long-Horizon Vision-Language-Action Models",
+      "published": "2026-11-18T04:49:41+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-20"
     }
   },
   "initialized": true,
   "baseline_day": "2026-11-18",
-  "last_run": "2026-11-19T05:24:21.191423+08:00"
+  "last_run": "2026-11-20T05:28:51.685772+08:00"
 }
