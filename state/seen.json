@@ -823,9 +823,249 @@
       "evidence": "paper_metadata",
       "source": "arXiv Robotics Agents",
       "first_seen": "2026-11-20"
+    },
+    "http://arxiv.org/abs/2611.26613v1": {
+      "url": "http://arxiv.org/abs/2611.26613v1",
+      "title": "AgentRoboCritic: Understanding the Capability of Frontier Agents on Direct Robot Control",
+      "published": "2026-11-19T18:57:25+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-21"
+    },
+    "http://arxiv.org/abs/2611.26596v1": {
+      "url": "http://arxiv.org/abs/2611.26596v1",
+      "title": "PGX: Physically Grounded Execution for Long-Horizon Humanoid Loco-Manipulation",
+      "published": "2026-11-19T18:52:18+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-21"
+    },
+    "http://arxiv.org/abs/2611.26565v1": {
+      "url": "http://arxiv.org/abs/2611.26565v1",
+      "title": "PhyDEX: A Benchmark for Physical Reasoning in Vision-Language-Action Models via Dynamic Extrinsic Dexterity",
+      "published": "2026-11-19T18:33:43+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-21"
+    },
+    "http://arxiv.org/abs/2611.26519v1": {
+      "url": "http://arxiv.org/abs/2611.26519v1",
+      "title": "ACE-Brain-0.7: Learning Execution-Grounded Reasoning for Embodied Agents",
+      "published": "2026-11-19T17:59:37+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-21"
+    },
+    "http://arxiv.org/abs/2611.26503v1": {
+      "url": "http://arxiv.org/abs/2611.26503v1",
+      "title": "JARVIS: An Agent That Designs, Builds, and Tests Circuit Boards on Its Own",
+      "published": "2026-11-19T17:53:30+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-21"
+    },
+    "http://arxiv.org/abs/2611.26444v1": {
+      "url": "http://arxiv.org/abs/2611.26444v1",
+      "title": "Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation",
+      "published": "2026-11-19T17:15:38+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-21"
+    },
+    "http://arxiv.org/abs/2611.26420v1": {
+      "url": "http://arxiv.org/abs/2611.26420v1",
+      "title": "Awaken-HI: Scaling Humanoid Intelligence with Whole-Body Human Experience",
+      "published": "2026-11-19T17:03:03+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-21"
+    },
+    "http://arxiv.org/abs/2611.26405v1": {
+      "url": "http://arxiv.org/abs/2611.26405v1",
+      "title": "TacInno: Teaching Vision-Language-Action Models the Contact Dynamics Beyond Vision and Action",
+      "published": "2026-11-19T16:53:19+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-21"
+    },
+    "http://arxiv.org/abs/2611.26390v1": {
+      "url": "http://arxiv.org/abs/2611.26390v1",
+      "title": "SpecFlow: Flow Matching in the Acceleration Spectrum for Multi-Agent Trajectory Forecasting",
+      "published": "2026-11-19T16:44:10+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-21"
+    },
+    "http://arxiv.org/abs/2611.26376v1": {
+      "url": "http://arxiv.org/abs/2611.26376v1",
+      "title": "Alignment Drives Reuse: Learning Generalizable Robot-Use Agents from Heterogeneous Experience",
+      "published": "2026-11-19T16:37:10+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-21"
+    },
+    "http://arxiv.org/abs/2611.26341v1": {
+      "url": "http://arxiv.org/abs/2611.26341v1",
+      "title": "Reasoning on Call: Efficient Agentic Robot Control for Long-Horizon Robot Manipulation",
+      "published": "2026-11-19T16:18:14+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-21"
+    },
+    "http://arxiv.org/abs/2611.26302v1": {
+      "url": "http://arxiv.org/abs/2611.26302v1",
+      "title": "Exposure-Aware Informative Path Planning Using Deep Reinforcement Learning",
+      "published": "2026-11-19T15:54:04+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-21"
+    },
+    "http://arxiv.org/abs/2611.26276v1": {
+      "url": "http://arxiv.org/abs/2611.26276v1",
+      "title": "I See You: Initial Multi-Robot LiDAR Registration with Mutual-Observation Checks",
+      "published": "2026-11-19T15:40:30+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-21"
+    },
+    "http://arxiv.org/abs/2611.26242v1": {
+      "url": "http://arxiv.org/abs/2611.26242v1",
+      "title": "FastRoverVLA: Fast Vision-Language-Action Execution for Off-Road Autonomous Driving",
+      "published": "2026-11-19T15:23:14+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-21"
+    },
+    "http://arxiv.org/abs/2611.26239v1": {
+      "url": "http://arxiv.org/abs/2611.26239v1",
+      "title": "Teaching Vision-Language-Action Models to Stop Safely",
+      "published": "2026-11-19T15:14:55+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-21"
+    },
+    "http://arxiv.org/abs/2611.26196v1": {
+      "url": "http://arxiv.org/abs/2611.26196v1",
+      "title": "EmbodyAgent: Post-Training Embodied VLM Agents via Distillation, SFT, and RL",
+      "published": "2026-11-19T14:41:34+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-21"
+    },
+    "http://arxiv.org/abs/2611.26161v1": {
+      "url": "http://arxiv.org/abs/2611.26161v1",
+      "title": "One View, One Action: Spatially Generalizable VLAs through Observation-Aligned Experts and Cross Graph Consistency",
+      "published": "2026-11-19T14:16:44+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-21"
+    },
+    "http://arxiv.org/abs/2611.26127v1": {
+      "url": "http://arxiv.org/abs/2611.26127v1",
+      "title": "Spatially Conditioned Trajectory Diffusion",
+      "published": "2026-11-19T13:51:02+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-21"
+    },
+    "http://arxiv.org/abs/2611.26046v1": {
+      "url": "http://arxiv.org/abs/2611.26046v1",
+      "title": "Agentic Scaling of Embodied Tasks in Simulation for Synthetic Data Collection and Policy Evaluation",
+      "published": "2026-11-19T12:55:12+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-21"
+    },
+    "http://arxiv.org/abs/2611.25866v1": {
+      "url": "http://arxiv.org/abs/2611.25866v1",
+      "title": "From Sequence to Space: Explicit Spatial Belief with Vision-Language Distillation for Active Geo-Localization",
+      "published": "2026-11-19T10:15:41+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-21"
+    },
+    "http://arxiv.org/abs/2611.25778v1": {
+      "url": "http://arxiv.org/abs/2611.25778v1",
+      "title": "ECHO: In-Context Behavior foundation model for Humanoid Whole-Body Control",
+      "published": "2026-11-19T09:11:24+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-21"
+    },
+    "http://arxiv.org/abs/2611.25683v1": {
+      "url": "http://arxiv.org/abs/2611.25683v1",
+      "title": "TipDex-VTLA: Learning When to Refine Actions with Touch for Dexterous Manipulation",
+      "published": "2026-11-19T08:01:59+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-21"
+    },
+    "http://arxiv.org/abs/2611.25679v1": {
+      "url": "http://arxiv.org/abs/2611.25679v1",
+      "title": "LeCompass: Task-Level Execution through State-Indexed Interfaces",
+      "published": "2026-11-19T07:57:21+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-21"
+    },
+    "http://arxiv.org/abs/2611.25667v1": {
+      "url": "http://arxiv.org/abs/2611.25667v1",
+      "title": "CauSyncVLA: Causal Latent World Modeling for Asynchronous Robot Control",
+      "published": "2026-11-19T07:45:18+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-21"
+    },
+    "http://arxiv.org/abs/2611.25656v1": {
+      "url": "http://arxiv.org/abs/2611.25656v1",
+      "title": "A$^2$-VLA: Adapting Vision-Language-Action Policies to New Tools through Agentic Affordance Discovery",
+      "published": "2026-11-19T07:38:47+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-21"
+    },
+    "http://arxiv.org/abs/2611.25587v1": {
+      "url": "http://arxiv.org/abs/2611.25587v1",
+      "title": "Cognitive-Horizon Action Chunking: Memory-Guided Adaptive Reasoning for Embodied Navigation",
+      "published": "2026-11-19T06:31:49+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-21"
+    },
+    "http://arxiv.org/abs/2611.25580v1": {
+      "url": "http://arxiv.org/abs/2611.25580v1",
+      "title": "FlashX: Scaling Robotic Experience Reuse for Embodied Agents with CBA-Based NAND Flash",
+      "published": "2026-11-19T06:24:38+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-21"
+    },
+    "http://arxiv.org/abs/2611.25575v1": {
+      "url": "http://arxiv.org/abs/2611.25575v1",
+      "title": "Trajectory-Calibrated Merging of Embodied Policies",
+      "published": "2026-11-19T06:15:44+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-21"
+    },
+    "http://arxiv.org/abs/2611.25529v1": {
+      "url": "http://arxiv.org/abs/2611.25529v1",
+      "title": "CoachSI: Self-Improvement of Robot Policies with a Language Coach",
+      "published": "2026-11-19T05:28:19+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-21"
+    },
+    "http://arxiv.org/abs/2611.25474v1": {
+      "url": "http://arxiv.org/abs/2611.25474v1",
+      "title": "TuringPAI: A Foundation for On-Device Physical AI",
+      "published": "2026-11-19T04:01:34+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-21"
     }
   },
   "initialized": true,
   "baseline_day": "2026-11-18",
-  "last_run": "2026-11-20T05:28:51.685772+08:00"
+  "last_run": "2026-11-21T05:03:47.501918+08:00"
 }
