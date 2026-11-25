@@ -1,86 +1,86 @@
-# 具身智能技术雷达 · 2026-11-24
+# 具身智能技术雷达 · 2026-11-26
 
 时区：Asia/Shanghai。以下为公开来源线索，所有技术结论均需阅读原文确认。
 
 按首次发现日期去重；首次发现不等于首次发表。
 
-本日发现 30 条，展示 12 条。
+本日发现 31 条，展示 12 条。
 
 未启用模型：当前为来源线索简报。
 
 ## 来源线索
 
-### 1. Task2Hand: A Contact-Grounded Skill for Parametric Dexterous-Hand Morphology Design
+### 1. How iFood scales coding agents across 15,000 repositories
 
-来源：arXiv Robotics Agents · 发表时间：2026-11-20T18:48:12+00:00
+来源：OpenAI · 发表时间：2026-11-24T00:00:00+00:00
 
-[查看原始来源](<http://arxiv.org/abs/2611.27967v1>) · 证据类型：paper_metadata
+[查看原始来源](<https://openai.com/business/customer-stories/ifood>) · 证据类型：official_feed
 
-### 2. StereoVLM: Binocular Vision-Language Models for Metric 3D Spatial Reasoning
+### 2. PyRUA-Dex: Learning Programmatic Policies for Dexterous Bimanual Manipulation with Coding Agents
 
-来源：arXiv Robotics Agents · 发表时间：2026-11-20T17:52:02+00:00
+来源：arXiv Robotics Agents · 发表时间：2026-11-24T18:56:44+00:00
 
-[查看原始来源](<http://arxiv.org/abs/2611.27915v1>) · 证据类型：paper_metadata
+[查看原始来源](<http://arxiv.org/abs/2611.33144v1>) · 证据类型：paper_metadata
 
-### 3. EvoTER: Evolving Embodied Agents via Tool-Use Experience and Reflection
+### 3. ROAM-Bench: Evaluating Embodied Active Spatial Intelligence through Evidence Verification
 
-来源：arXiv Robotics Agents · 发表时间：2026-11-20T16:28:51+00:00
+来源：arXiv Robotics Agents · 发表时间：2026-11-24T18:56:22+00:00
 
-[查看原始来源](<http://arxiv.org/abs/2611.27797v1>) · 证据类型：paper_metadata
+[查看原始来源](<http://arxiv.org/abs/2611.33143v1>) · 证据类型：paper_metadata
 
-### 4. Embodied-Harness: Towards Recursive Self-Improvement for Robotic Manipulation
+### 4. EmbodiSafety: Benchmarking Risk Understanding and Response in Embodied AI
 
-来源：arXiv Robotics Agents · 发表时间：2026-11-20T14:55:07+00:00
+来源：arXiv Robotics Agents · 发表时间：2026-11-24T17:59:05+00:00
 
-[查看原始来源](<http://arxiv.org/abs/2611.27689v1>) · 证据类型：paper_metadata
+[查看原始来源](<http://arxiv.org/abs/2611.33054v1>) · 证据类型：paper_metadata
 
-### 5. SOAR: Training-Free Rank-Consistent Rollout Compression for Latent World Model Planning
+### 5. Embodied AI Fails the Mirror Test: How a Simple Mirror Breaks Robot Policies
 
-来源：arXiv Robotics Agents · 发表时间：2026-11-20T14:03:18+00:00
+来源：arXiv Robotics Agents · 发表时间：2026-11-24T17:32:00+00:00
 
-[查看原始来源](<http://arxiv.org/abs/2611.27639v1>) · 证据类型：paper_metadata
+[查看原始来源](<http://arxiv.org/abs/2611.33010v1>) · 证据类型：paper_metadata
 
-### 6. S-BFM: A Behavioral Foundation Model for Humanoid Control from Sparse Spatiotemporal Goals
+### 6. CAPER: PartGround and PlanRefine for Reliable Manual-Guided Robotic Assembly Planning
 
-来源：arXiv Robotics Agents · 发表时间：2026-11-20T12:47:59+00:00
+来源：arXiv Robotics Agents · 发表时间：2026-11-24T17:16:21+00:00
 
-[查看原始来源](<http://arxiv.org/abs/2611.27552v1>) · 证据类型：paper_metadata
+[查看原始来源](<http://arxiv.org/abs/2611.32986v1>) · 证据类型：paper_metadata
 
-### 7. Where Delay Compensation Belongs in a Decentralized Mean-Field-Game Swarm with a Control-Barrier Safety Filter
+### 7. VidForce: Predicting Force-Aware Articulation by Observing Humans
 
-来源：arXiv Robotics Agents · 发表时间：2026-11-20T12:36:13+00:00
+来源：arXiv Robotics Agents · 发表时间：2026-11-24T17:03:47+00:00
 
-[查看原始来源](<http://arxiv.org/abs/2611.27540v1>) · 证据类型：paper_metadata
+[查看原始来源](<http://arxiv.org/abs/2611.32967v1>) · 证据类型：paper_metadata
 
-### 8. Joint Optimization of Fleet Size, Localization Infrastructure, and Trajectories for Multi-AUV Persistent Monitoring
+### 8. What Does a Skill Vocabulary Cost? A Closed-Loop Decomposition over Demonstrated Motions
 
-来源：arXiv Robotics Agents · 发表时间：2026-11-20T12:35:02+00:00
+来源：arXiv Robotics Agents · 发表时间：2026-11-24T15:58:53+00:00
 
-[查看原始来源](<http://arxiv.org/abs/2611.27539v1>) · 证据类型：paper_metadata
+[查看原始来源](<http://arxiv.org/abs/2611.32858v1>) · 证据类型：paper_metadata
 
-### 9. NavRSI: Recursive Harness Self-Improvement for Vision-and-Language Navigation
+### 9. Atomic Policy: Composing Atomic Manipulation Skills with Agentic Reasoning
 
-来源：arXiv Robotics Agents · 发表时间：2026-11-20T11:47:47+00:00
+来源：arXiv Robotics Agents · 发表时间：2026-11-24T15:32:27+00:00
 
-[查看原始来源](<http://arxiv.org/abs/2611.27499v1>) · 证据类型：paper_metadata
+[查看原始来源](<http://arxiv.org/abs/2611.32813v1>) · 证据类型：paper_metadata
 
-### 10. ROSWORLD: When Digital Task Competence Meets Physical Execution
+### 10. MRBench: Benchmarking Physical Necessity Reasoning in Heterogeneous Multi-Robot Manipulation
 
-来源：arXiv Robotics Agents · 发表时间：2026-11-20T11:17:29+00:00
+来源：arXiv Robotics Agents · 发表时间：2026-11-24T15:25:53+00:00
 
-[查看原始来源](<http://arxiv.org/abs/2611.27467v1>) · 证据类型：paper_metadata
+[查看原始来源](<http://arxiv.org/abs/2611.32803v1>) · 证据类型：paper_metadata
 
-### 11. Beyond Future Views: Exploring Future-State World Models for Vision-Language Navigation
+### 11. Seeing to Drive on a Single Board: Attention-Free Depth for Onboard Robot Navigation
 
-来源：arXiv Robotics Agents · 发表时间：2026-11-20T10:22:30+00:00
+来源：arXiv Robotics Agents · 发表时间：2026-11-24T14:39:05+00:00
 
-[查看原始来源](<http://arxiv.org/abs/2611.27418v1>) · 证据类型：paper_metadata
+[查看原始来源](<http://arxiv.org/abs/2611.32718v1>) · 证据类型：paper_metadata
 
-### 12. Latent Jacobian Steer: Eliciting Contact-Rich Out-of-Distribution Behaviors from Pretrained Humanoid Controllers
+### 12. DeCoNav-Act: Benchmarking Collective Physical Capability in Multi-Robot Mobile Manipulation
 
-来源：arXiv Robotics Agents · 发表时间：2026-11-20T09:14:25+00:00
+来源：arXiv Robotics Agents · 发表时间：2026-11-24T14:24:37+00:00
 
-[查看原始来源](<http://arxiv.org/abs/2611.27338v1>) · 证据类型：paper_metadata
+[查看原始来源](<http://arxiv.org/abs/2611.32683v1>) · 证据类型：paper_metadata
 
 ## 来源健康状态
 
@@ -89,8 +89,8 @@
 - Physical Intelligence：failed，匹配 0 条（HTTPError 429）
 - Dyna Robotics：ok，匹配 7 条
 - Anthropic Research：ok，匹配 2 条
-- Anthropic Engineering：ok，匹配 10 条
-- OpenAI：ok，匹配 1 条
+- Anthropic Engineering：ok，匹配 9 条
+- OpenAI：ok，匹配 2 条
 - arXiv Robotics Agents：ok，匹配 30 条
 
 说明：ok 表示读取与解析成功；0 条可能是时间或主题筛选结果。empty_parse 需检查网页结构；failed 表示该来源本轮不可用。
