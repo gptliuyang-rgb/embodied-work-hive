@@ -1551,9 +1551,249 @@
       "evidence": "paper_metadata",
       "source": "arXiv Robotics Agents",
       "first_seen": "2026-11-26"
+    },
+    "http://arxiv.org/abs/2611.34925v1": {
+      "url": "http://arxiv.org/abs/2611.34925v1",
+      "title": "One Ocean, Many Tasks: A Data-Grounded Simulation Suite and Benchmark for Marine Robotics",
+      "published": "2026-11-25T18:58:56+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-27"
+    },
+    "http://arxiv.org/abs/2611.34915v1": {
+      "url": "http://arxiv.org/abs/2611.34915v1",
+      "title": "Memory Is Not Ground Truth: Revising Navigation Authority under Unreliable VLM Evidence for Persistent Semantic Navigation",
+      "published": "2026-11-25T18:57:52+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-27"
+    },
+    "http://arxiv.org/abs/2611.34914v1": {
+      "url": "http://arxiv.org/abs/2611.34914v1",
+      "title": "Cairn: Object-Centric 3D Trajectory Priors for Steering Frozen VLAs",
+      "published": "2026-11-25T18:57:29+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-27"
+    },
+    "http://arxiv.org/abs/2611.34884v1": {
+      "url": "http://arxiv.org/abs/2611.34884v1",
+      "title": "FineDex: Bridging Fine-Grained Human-Object Interaction Generation to Dexterous Humanoid Manipulation",
+      "published": "2026-11-25T18:40:47+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-27"
+    },
+    "http://arxiv.org/abs/2611.34864v1": {
+      "url": "http://arxiv.org/abs/2611.34864v1",
+      "title": "RePace: Reasoning about Demonstration Speedup for Faster Vision-Language-Action Policies",
+      "published": "2026-11-25T18:30:43+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-27"
+    },
+    "http://arxiv.org/abs/2611.34849v1": {
+      "url": "http://arxiv.org/abs/2611.34849v1",
+      "title": "Real2SimLab: A Unified Platform for Real-to-Simulation Transfer",
+      "published": "2026-11-25T18:23:41+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-27"
+    },
+    "http://arxiv.org/abs/2611.34778v1": {
+      "url": "http://arxiv.org/abs/2611.34778v1",
+      "title": "Toward Agentic Robotics: A Large-Scale Study of Harness Design for Robot-Use Agents",
+      "published": "2026-11-25T17:39:10+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-27"
+    },
+    "http://arxiv.org/abs/2611.34750v1": {
+      "url": "http://arxiv.org/abs/2611.34750v1",
+      "title": "SOLVE: Sparse, Ordered Keyposes Make LLM Agents Versatile and Efficient Robot Manipulator",
+      "published": "2026-11-25T17:25:17+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-27"
+    },
+    "http://arxiv.org/abs/2611.34675v1": {
+      "url": "http://arxiv.org/abs/2611.34675v1",
+      "title": "RoboEvo$^2$: Recursive Robot Self-Improvement via Harness-Policy Co-Evolution",
+      "published": "2026-11-25T16:39:10+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-27"
+    },
+    "http://arxiv.org/abs/2611.34671v1": {
+      "url": "http://arxiv.org/abs/2611.34671v1",
+      "title": "DemoFoundry: Toward Scalable Photorealistic Robot Data with Coding Agents and Generative Rendering",
+      "published": "2026-11-25T16:37:10+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-27"
+    },
+    "http://arxiv.org/abs/2611.34655v1": {
+      "url": "http://arxiv.org/abs/2611.34655v1",
+      "title": "Nav4Manip: From Navigation to Dexterous Mobile Manipulation through Co-Evolution",
+      "published": "2026-11-25T16:29:17+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-27"
+    },
+    "http://arxiv.org/abs/2611.34586v1": {
+      "url": "http://arxiv.org/abs/2611.34586v1",
+      "title": "Geometric Acceleration Obstacles: Physical Boundary Structure and Affine Safety Certificates",
+      "published": "2026-11-25T15:45:49+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-27"
+    },
+    "http://arxiv.org/abs/2611.34561v1": {
+      "url": "http://arxiv.org/abs/2611.34561v1",
+      "title": "Compact Vision-Language Navigation in Continuous Environmentsvia On-Policy Training and Route-Bearing Output",
+      "published": "2026-11-25T15:32:39+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-27"
+    },
+    "http://arxiv.org/abs/2611.34560v1": {
+      "url": "http://arxiv.org/abs/2611.34560v1",
+      "title": "M$^{2}$AdaptVLA: Multimodal Memory-Augmented Vision-Language-Action Model with Predictive Test-Time Adaptation",
+      "published": "2026-11-25T15:32:21+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-27"
+    },
+    "http://arxiv.org/abs/2611.34540v1": {
+      "url": "http://arxiv.org/abs/2611.34540v1",
+      "title": "Reference-Model-Guided Distributed MPC for UAV Swarm Formation Flying Under Switching Directed Graphs",
+      "published": "2026-11-25T15:21:09+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-27"
+    },
+    "http://arxiv.org/abs/2611.34538v1": {
+      "url": "http://arxiv.org/abs/2611.34538v1",
+      "title": "Dynamic Task Update Benchmark (DTU-Bench): Evaluating Runtime Task Adaptation in Robotic Manipulation",
+      "published": "2026-11-25T15:20:36+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-27"
+    },
+    "http://arxiv.org/abs/2611.34463v1": {
+      "url": "http://arxiv.org/abs/2611.34463v1",
+      "title": "Least Restrictive Halfplane Control Barrier Functions for an Autonomous Hydrofoil Boat with Moving Obstacles",
+      "published": "2026-11-25T14:35:37+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-27"
+    },
+    "http://arxiv.org/abs/2611.34449v1": {
+      "url": "http://arxiv.org/abs/2611.34449v1",
+      "title": "HoloBrain-0.5 Technical Report",
+      "published": "2026-11-25T14:28:05+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-27"
+    },
+    "http://arxiv.org/abs/2611.34422v1": {
+      "url": "http://arxiv.org/abs/2611.34422v1",
+      "title": "Can Visual World Models See Force?",
+      "published": "2026-11-25T14:12:10+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-27"
+    },
+    "http://arxiv.org/abs/2611.34352v1": {
+      "url": "http://arxiv.org/abs/2611.34352v1",
+      "title": "Beyond Natural-Language Instructions: Temporal Logic as a Task Language for VLA Models with Visual-Logical Fusion",
+      "published": "2026-11-25T13:20:34+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-27"
+    },
+    "http://arxiv.org/abs/2611.34328v1": {
+      "url": "http://arxiv.org/abs/2611.34328v1",
+      "title": "LUDIUS: A Benchmark for Embodied Social Intelligence in Everyday Human-Robot Interactions",
+      "published": "2026-11-25T13:09:34+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-27"
+    },
+    "http://arxiv.org/abs/2611.34287v1": {
+      "url": "http://arxiv.org/abs/2611.34287v1",
+      "title": "DataForgeVLA: Fully Synthetic Manipulation Demonstrations for Vision-Language-Action Training",
+      "published": "2026-11-25T12:41:23+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-27"
+    },
+    "http://arxiv.org/abs/2611.34280v1": {
+      "url": "http://arxiv.org/abs/2611.34280v1",
+      "title": "Escapingthe instruction blackhole of vision-language-action policies via optimal-transport wormholes",
+      "published": "2026-11-25T12:36:42+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-27"
+    },
+    "http://arxiv.org/abs/2611.34257v1": {
+      "url": "http://arxiv.org/abs/2611.34257v1",
+      "title": "CamAct: Learning Robotic Manipulation from In-the-Wild Videos via Camera Motion",
+      "published": "2026-11-25T12:19:59+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-27"
+    },
+    "http://arxiv.org/abs/2611.34128v1": {
+      "url": "http://arxiv.org/abs/2611.34128v1",
+      "title": "FoundSurface: Feedforward Ray-Based 3D Scene Surface Reconstruction from Unposed Images",
+      "published": "2026-11-25T10:30:24+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-27"
+    },
+    "http://arxiv.org/abs/2611.34115v1": {
+      "url": "http://arxiv.org/abs/2611.34115v1",
+      "title": "A Simple Yet Effective Agent for Open-World Aerial Object Search",
+      "published": "2026-11-25T10:17:35+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-27"
+    },
+    "http://arxiv.org/abs/2611.34014v1": {
+      "url": "http://arxiv.org/abs/2611.34014v1",
+      "title": "Hetero-Associative Visuomotor Memory: Soft Recall as a Base for Learned Residuals in Few-Demonstration Imitation",
+      "published": "2026-11-25T09:03:48+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-27"
+    },
+    "http://arxiv.org/abs/2611.33993v1": {
+      "url": "http://arxiv.org/abs/2611.33993v1",
+      "title": "Aegis-VLA: Reliability-Gated Action Refinement via a Trajectory World Model for Dynamic Object Manipulation",
+      "published": "2026-11-25T08:46:50+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-27"
+    },
+    "http://arxiv.org/abs/2611.33915v1": {
+      "url": "http://arxiv.org/abs/2611.33915v1",
+      "title": "SEEK: Self-Evolution through Execution Knowledge for Agentic Robot Manipulation",
+      "published": "2026-11-25T07:37:06+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-27"
+    },
+    "http://arxiv.org/abs/2611.33880v1": {
+      "url": "http://arxiv.org/abs/2611.33880v1",
+      "title": "Integration of Vision-Language-Action Control for Autonomous Forklift Unloading with Limited Real-World Data",
+      "published": "2026-11-25T06:58:46+00:00",
+      "evidence": "paper_metadata",
+      "source": "arXiv Robotics Agents",
+      "first_seen": "2026-11-27"
     }
   },
   "initialized": true,
   "baseline_day": "2026-11-18",
-  "last_run": "2026-11-26T06:28:50.275800+08:00"
+  "last_run": "2026-11-27T06:19:11.911639+08:00"
 }
